@@ -1,5 +1,5 @@
 # Criando um Ebook com ChatGPT &amp; Microsoft Designer
-
+<img src="https://raw.githubusercontent.com/leostella97/ebook_chatgpt-microsoft-designer/main/capa_ebook.png">
 prompt usado:
 
 ## Público-alvo
